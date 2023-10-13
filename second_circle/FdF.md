@@ -1,8 +1,7 @@
 # 과제명 : FdF
-
 소요일수: about 60h
-경험치:  1000 XP
-인원수 : solo
+경험치: 1000 XP
+인원수: solo
 
 ## 과제 내용
 
@@ -45,6 +44,7 @@ miniLibX라는 42 자체 라이브러리를 통해 화면을 그린다. miniLibX
 
 2. 투영법에 대한 이해
 3차원 투영 중 isometric projection을 이해하고 표현하는 방법, 다른 투영과의 차이에 대해 공부한다. 
+
 
 miniLibX 공통
 
