@@ -61,6 +61,8 @@ miniLibX(이하 mlx)라는 42 자체 라이브러리를 통해 화면을 그린�
 1. isometric projection
 isometric projection에 대해 설명하고, 표시된 화면이 이에 해당하는지 보여야 한다.
 2. 화면 표시 최적화
+mlx에는 화면에 픽셀을 그리는 두 가지 api를 제공한다. 
+하나는 직접 화면에 그리는 pixel_put이고, 하나는 
 
 
 
