@@ -57,7 +57,8 @@ miniLibX라는 42 자체 라이브러리를 통해 화면을 그린다. miniLibX
 
 ## 평가 항목
 
-1. 
+1. isometric projection을 설명할 수 있는가
+2. 
 
 
 ### miniLibX 공통
