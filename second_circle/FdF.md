@@ -61,6 +61,7 @@ miniLibX라는 42 자체 라이브러리를 통해 화면을 그린다. miniLibX
 1. isometric projection
 isometric projection에 대해 설명하고, 표시된 화면이 이에 해당하는지 보여야 한다.
 2. 화면 표시 최적화
+화면을 그릴때 이미지를 올린 뒤 색상값을 변경하는 방법이 있고, 
 
 
 
